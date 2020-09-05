@@ -50,7 +50,7 @@ function Home() {
           animationOutDuration={1000}
           isVisible={true}
         >
-          <img className="logo" src="./image/logo.png" alt="logo" />
+          <img className="logo" src="/image/logo.png" alt="logo" />
           <div>Kambiz Jalali Architect</div>
           <div class="mdn">
             <Link to="/gallery">Gallery</Link>
